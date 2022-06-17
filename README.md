@@ -34,9 +34,6 @@ http://zipcloud.ibsnet.co.jp/api/search?zipcode=2500011
 
 ## 参考
 
-[Qiita : WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
-
-[Github : SampleUser0001 : 
-Use_Json_in_Java](https://github.com/SampleUser0001/Use_Json_in_Java/tree/feature/nullToEmpty)
-
-[Qiita : 簡単！Spring BootでWebAPIをたたいてJSON形式のレスポンスをjavaオブジェクトに変換](https://qiita.com/yk0614/items/c306bddc66ab7882c7ba)
+- [Qiita : WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
+- [Github : SampleUser0001 : Use_Json_in_Java](https://github.com/SampleUser0001/Use_Json_in_Java/tree/feature/nullToEmpty)
+- [Qiita : 簡単！Spring BootでWebAPIをたたいてJSON形式のレスポンスをjavaオブジェクトに変換](https://qiita.com/yk0614/items/c306bddc66ab7882c7ba)
